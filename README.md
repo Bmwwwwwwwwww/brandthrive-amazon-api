@@ -1,0 +1,1 @@
+# brandthrive-amazon-api
